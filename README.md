@@ -1,4 +1,3 @@
-# Nextjs-For-Beginners
+# Multi-Color-Note-App
 
-
-Next.Js project for beginners. Simply and Easy to learn, what is nextjs. Learn How to change route from one page to another page with very simple and easy concept.
+Responsive notepad application using simple javascript. Notes stored in local storage, It performs different actions like every note have different colour after save automatically.
